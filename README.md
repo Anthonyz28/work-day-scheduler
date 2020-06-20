@@ -38,7 +38,7 @@ a simple calendar application that allows a user to save events for each hour of
 
 ![](assets/images/05-third-party-apis-homework-demo.gif)
 
-
+---
 ## Contributor:
 Sylvia Prabudy © 2020 All Rights Reserved.
-- - -
+
